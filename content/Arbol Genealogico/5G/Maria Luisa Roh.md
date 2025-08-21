@@ -1,14 +1,12 @@
-# Maria Luisa Roh
-
 ## Datos Básicos
 
-**Fecha de nacimiento**: 1876
-**Lugar de nacimiento**: Santa Fe
-*Documentos:* Ver [[MLR_1876_casamiento1.jpg]]
+- **Fecha de nacimiento**: 1876
+- **Lugar de nacimiento**: Santa Fe
+- *Documentos:* Ver [[MLR_1876_casamiento1.jpg]]
 
-**Fecha de fallecimiento**:
-**Lugar de fallecimiento**:
-*Documentos:*
+- **Fecha de fallecimiento**:
+- **Lugar de fallecimiento**:
+- *Documentos:*
 
 ## Familia
 

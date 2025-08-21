@@ -1,14 +1,12 @@
-# Jose Clemenzo
-
 ## Datos Básicos
 
-**Fecha de nacimiento**: 1862
-**Lugar de nacimiento**: Valais, Suiza
-*Documentos:* Fecha estimada según lo indicado en [[JC_1862_defuncion2.jpg]]
+- **Fecha de nacimiento**: 1862
+- **Lugar de nacimiento**: Valais, Suiza
+- *Documentos:* Fecha estimada según lo indicado en [[JC_1862_defuncion2.jpg]]
 
-**Fecha de fallecimiento**: 20/01/1899
-**Lugar de fallecimiento**: Colonia Yeruá, Departamento de Concordo, Entre Rios
-*Documentos:* [[JC_1862_defuncion1.jpg]], [[JC_1862_defuncion2.jpg]]
+- **Fecha de fallecimiento**: 20/01/1899
+- **Lugar de fallecimiento**: Colonia Yeruá, Departamento de Concordo, Entre Rios
+- *Documentos:* [[JC_1862_defuncion1.jpg]], [[JC_1862_defuncion2.jpg]]
 
 ## Familia
 

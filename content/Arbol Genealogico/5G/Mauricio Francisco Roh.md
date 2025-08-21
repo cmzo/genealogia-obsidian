@@ -1,14 +1,12 @@
-# Mauricio Francisco Roh
-
 ## Datos Básicos
 
-**Fecha de nacimiento**: 1879
-**Lugar de nacimiento**:
-*Documentos:*
+- **Fecha de nacimiento**: 1879
+- **Lugar de nacimiento**:
+- *Documentos:*
 
-**Fecha de fallecimiento**:
-**Lugar de fallecimiento**:
-*Documentos:*
+- **Fecha de fallecimiento**:
+- **Lugar de fallecimiento**:
+- *Documentos:*
 
 ## Familia
 

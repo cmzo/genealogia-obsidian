@@ -1,12 +1,12 @@
 ## Datos Básicos
 
-**Fecha de nacimiento**: 1863
-**Lugar de nacimiento**: Conthey, Ardon, Valais, Suiza
-*Documentos*: [[FJHC_1859_censo1895.jpg]],
+- **Fecha de nacimiento**: 1863
+- **Lugar de nacimiento**: Conthey, Ardon, Valais, Suiza
+- *Documentos*: [[FJHC_1859_censo1895.jpg]],
 
-**Fecha de fallecimiento**:  02/10/1950
-**Lugar de fallecimiento**: Ciudad de Santa Fe
-*Documentos*: [[CR_1863_defuncion.jpg]]
+- **Fecha de fallecimiento**:  02/10/1950
+- **Lugar de fallecimiento**: Ciudad de Santa Fe
+- *Documentos*: [[CR_1863_defuncion.jpg]]
 
  **Profesión**: Ocupaciones domésticas
 
@@ -14,7 +14,6 @@
 ## Familia
 
 **Padre**: [[Juan Jose Roh]] (1841) 
-
 **Madre:** [[Maria Catalina Putallaz]] (1837)
 
 **Pareja(s)**: [[Francois Joseph Hector Clemenzo]]

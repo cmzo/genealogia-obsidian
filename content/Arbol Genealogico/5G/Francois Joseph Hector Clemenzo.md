@@ -8,7 +8,6 @@
 - **Lugar de fallecimiento**: Concepción del Uruguay, Provincia de Entre Rios, Argentina
 - *Documentos*: [[FJHC_1859_defuncion.jpg]]
 
-
  **Profesión**: Labrador, Carpintero
 
 ## Familia
