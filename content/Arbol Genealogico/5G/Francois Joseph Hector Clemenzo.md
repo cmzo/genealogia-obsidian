@@ -1,15 +1,4 @@
----
-title: "Francois Joseph Hector Clemenzo"
-description: "Datos biográficos de Francois Joseph Hector Clemenzo (1859-1928)"
-tags: [persona, inmigrante, suiza, argentina, siglo-xix]
----
-
-<div class="person-page">
-
 # Francois Joseph Hector Clemenzo
-
-<div class="basic-data">
-
 ## Datos Básicos
 
 **Fecha de nacimiento**: 16 (o 22) de julio de 1859 
@@ -21,8 +10,6 @@ tags: [persona, inmigrante, suiza, argentina, siglo-xix]
 *Documentos*: [[FJHC_1859_defuncion.jpg]]
 
 **Profesión**: Labrador, Carpintero
-
-</div>
 
 ## Familia
 
@@ -94,5 +81,3 @@ Ver
 ![[FJHC_1859_firma.png]]
 
 ![[FJHC_1859_firma2.png]]
-
-</div>
