@@ -21,7 +21,7 @@
 *Documentos:* [[FC_1894_matrimonio.jpg]]
 
 
-**Hijos(as)**: 
+**Hijos(as)**:
 
 **Hermanos(as)**:
 

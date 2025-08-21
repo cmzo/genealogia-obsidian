@@ -1,4 +1,3 @@
-# Francois Joseph Hector Clemenzo
 ## Datos Básicos
 
 - **Fecha de nacimiento**: 16 (o 22) de julio de 1859 

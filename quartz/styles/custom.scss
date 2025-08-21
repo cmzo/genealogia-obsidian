@@ -67,3 +67,20 @@
     }
   }
 }
+
+// Forzar tema claro por defecto
+:root {
+  saved-theme: light !important;
+}
+
+:root[saved-theme=dark] {
+  --light: #faf8f8 !important;
+  --lightgray: #e5e5e5 !important;
+  --gray: #b8b8b8 !important;
+  --darkgray: #4e4e4e !important;
+  --dark: #2b2b2b !important;
+  --secondary: #284b63 !important;
+  --tertiary: #84a59d !important;
+  --highlight: #8f9fa926 !important;
+  --textHighlight: #fff23688 !important;
+}
