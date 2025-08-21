@@ -20,13 +20,12 @@ Bienvenido a la investigación genealógica de la familia Clemenzo. Este sitio c
 
 ### Documentos Principales
 - [[AG - Arbol Genealógico]] - Recursos de investigación genealógica
+- [[Arbol Genealogico Interactivo]] - Visualización interactiva del árbol familiar
 - [[Encontar a Francisco]] - Investigación sobre Francisco Clemenzo
-- [[Familia Clemenzo]] - Árbol genealógico en formato canvas
 - [[Heráldica Clemenzo]] - Información sobre el escudo familiar
 
 ### Investigaciones en Curso
-- [[Francisco, Celestina, sífilis y George Clemenceau]] - Investigación histórica
-- [[Mensajes con Jean Pierre Chandeze]] - Comunicaciones con investigadores
+- Tratando de encontrar la llegada de [[Francois Joseph Hector Clemenzo]] a la Argentina
 - [[Investigar]] - Tareas pendientes de investigación
 
 ### Imágenes y Documentos
@@ -37,13 +36,9 @@ Bienvenido a la investigación genealógica de la familia Clemenzo. Este sitio c
 ### Personas Principales
 - [[Francois Joseph Hector Clemenzo]] (1859-1928)
 - [[Celestina Roch]] (1867)
-- [[Jose Clemenzo]] (1862)
-- Luisa Fardes
+
 
 ### Investigaciones Pendientes
-- Juan Clemenzo, Santa Fe, 1905 - 1962
-- Jose Martin Clemenzo, Santa Fe, 1906 - 1944  
-- Maria Clemenzo, Santa Fe, 1877 (Suiza)
 
 ---
 
