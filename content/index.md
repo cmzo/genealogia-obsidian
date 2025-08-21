@@ -20,7 +20,7 @@ Bienvenido a la investigación genealógica de la familia Clemenzo. Este sitio c
 
 ### Documentos Principales
 - [[AG - Arbol Genealógico]] - Recursos de investigación genealógica
-- [[Arbol Genealogico Interactivo]] - Visualización interactiva del árbol familiar
+- [[Arbol Genealogico Canvas]] - Visualización visual del árbol familiar
 - [[Encontar a Francisco]] - Investigación sobre Francisco Clemenzo
 - [[Heráldica Clemenzo]] - Información sobre el escudo familiar
 

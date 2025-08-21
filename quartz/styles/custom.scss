@@ -2,3 +2,49 @@
 
 // Tema por defecto de Quartz - sin personalizaciones
 // Este archivo importa los estilos base de Quartz
+
+// Estilos para el árbol genealógico visual
+.family-tree {
+  .generation {
+    border: 2px solid var(--lightgray);
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem 0;
+    background: var(--light);
+    
+    h3 {
+      color: var(--secondary);
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+    
+    .family-group {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+      
+      .person {
+        background: var(--lightgray);
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        border: 1px solid var(--gray);
+        font-size: 0.9rem;
+        transition: all 0.3s ease;
+        
+        &:hover {
+          background: var(--secondary);
+          color: white;
+          transform: translateY(-2px);
+        }
+        
+        &.highlight {
+          background: var(--tertiary);
+          color: white;
+          font-weight: bold;
+          border-color: var(--secondary);
+        }
+      }
+    }
+  }
+}
