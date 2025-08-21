@@ -1,4 +1,3 @@
-# Celestina Roh
 ## Datos Básicos
 
 **Fecha de nacimiento**: 1863
