@@ -2,22 +2,22 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4 Configuration
+ * Quartz 4 Configuration - Genealogía Clemenzo
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Genealogía Clemenzo",
+    pageTitleSuffix: " - Investigación Familiar",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "es-ES",
+    baseUrl: "cmzo.github.io/genealogia-obsidian",
+    ignorePatterns: ["private", "templates", ".obsidian", "carpetas-privadas"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
