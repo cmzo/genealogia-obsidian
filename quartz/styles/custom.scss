@@ -13,6 +13,78 @@
   overflow-wrap: break-word !important;
 }
 
+// Tema estilo Obsidian para páginas de personas
+.person-page {
+  background: #2c2416 !important;
+  color: #faf7f2 !important;
+  
+  .page-title {
+    background: linear-gradient(135deg, #8b4513, #cd853f) !important;
+    color: #ff4444 !important;
+    padding: 1rem !important;
+    border-radius: 8px !important;
+    margin-bottom: 1rem !important;
+    font-weight: bold !important;
+  }
+  
+  .section-title {
+    background: linear-gradient(135deg, #5d4e37, #8b7355) !important;
+    color: white !important;
+    padding: 0.8rem !important;
+    border-radius: 6px !important;
+    margin: 1rem 0 0.5rem 0 !important;
+    font-weight: bold !important;
+  }
+  
+  .data-label {
+    color: #4a9eff !important;
+    font-weight: bold !important;
+  }
+  
+  .data-value {
+    color: white !important;
+  }
+  
+  .document-link {
+    color: #ffff00 !important;
+    text-decoration: underline !important;
+    
+    &:hover {
+      color: #ffaa00 !important;
+    }
+  }
+}
+
+// Estilos para datos básicos
+.basic-data {
+  background: #2c2416 !important;
+  color: #faf7f2 !important;
+  padding: 1.5rem !important;
+  border-radius: 10px !important;
+  margin: 1rem 0 !important;
+  
+  h3 {
+    background: linear-gradient(135deg, #5d4e37, #8b7355) !important;
+    color: white !important;
+    padding: 0.8rem !important;
+    border-radius: 6px !important;
+    margin: 0 0 1rem 0 !important;
+  }
+  
+  strong {
+    color: #4a9eff !important;
+  }
+  
+  a {
+    color: #ffff00 !important;
+    text-decoration: underline !important;
+    
+    &:hover {
+      color: #ffaa00 !important;
+    }
+  }
+}
+
 // Mejorar espaciado del header
 .page-header {
   padding: 1rem 0 !important;
