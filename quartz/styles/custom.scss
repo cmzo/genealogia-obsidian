@@ -3,6 +3,25 @@
 // Tema por defecto de Quartz - sin personalizaciones
 // Este archivo importa los estilos base de Quartz
 
+// Estilos para el avatar y título personalizado
+.site-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  
+  &::before {
+    content: "";
+    width: 32px;
+    height: 32px;
+    background-image: url('/assets/images/avatars/matias.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    border: 2px solid var(--secondary);
+    flex-shrink: 0;
+  }
+}
+
 // Estilos para el árbol genealógico visual
 .family-tree {
   .generation {
