@@ -8,12 +8,12 @@ Bienvenido a la investigación genealógica de la familia Clemenzo. Este sitio c
 ## Estructura del Árbol Genealógico
 
 ### Generaciones
-- [[1g]] - Primera generación
-- [[2g]] - Segunda generación  
-- [[3g]] - Tercera generación
-- [[4g]] - Cuarta generación
-- [[5G]] - Quinta generación
-- [[6G]] - Sexta generación
+- **1g** - Corresponde a la generación más joven de la familia
+- **2g** - Segunda generación  
+- **3g** - Tercera generación
+- **4g** - Cuarta generación
+- **5G** - Quinta generación
+- **6G** - Esta es la última generación confirmada
 
 ### Documentos Principales
 - [[AG - Arbol Genealógico]] - Recursos de investigación genealógica
@@ -40,4 +40,3 @@ Bienvenido a la investigación genealógica de la familia Clemenzo. Este sitio c
 ---
 
 *Este sitio se actualiza regularmente con nuevos hallazgos e investigaciones genealógicas.*
-# Test change
