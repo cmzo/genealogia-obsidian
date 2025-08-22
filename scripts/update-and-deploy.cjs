@@ -2,6 +2,7 @@
 
 const { execSync } = require('child_process');
 const fs = require('fs');
+const path = require('path');
 
 // Colores para la consola
 const colors = {
@@ -190,6 +191,58 @@ function showChangesSummary(analysis) {
   log('\n' + '='.repeat(50), 'bright');
 }
 
+// Función para sincronizar desde Obsidian
+function syncFromObsidian() {
+  const obsidianVaultPath = '/Users/matias/Library/Mobile Documents/iCloud~md~obsidian/Documents/Enciclopedia_Galactica';
+  const filesToSync = [
+    { 
+      source: 'Arbol Genealogico/', 
+      dest: 'content/Arbol Genealogico/' 
+    }
+  ];
+
+  for (const fileMapping of filesToSync) {
+    const sourcePath = path.join(obsidianVaultPath, fileMapping.source);
+    const destPath = fileMapping.dest;
+
+    if (fs.existsSync(sourcePath)) {
+      logInfo(`📂 Sincronizando: ${fileMapping.source} → ${destPath}`);
+      
+      // Crear directorio de destino si no existe
+      if (!fs.existsSync(destPath)) {
+        fs.mkdirSync(destPath, { recursive: true });
+      }
+      
+      // Copiar archivos recursivamente
+      copyDirectoryRecursive(sourcePath, destPath);
+    } else {
+      logWarning(`⚠️  Directorio no encontrado: ${sourcePath}`);
+    }
+  }
+}
+
+// Función auxiliar para copiar directorios recursivamente
+function copyDirectoryRecursive(source, destination) {
+  if (!fs.existsSync(destination)) {
+    fs.mkdirSync(destination, { recursive: true });
+  }
+
+  const items = fs.readdirSync(source);
+  
+  for (const item of items) {
+    const sourcePath = path.join(source, item);
+    const destPath = path.join(destination, item);
+    
+    const stat = fs.statSync(sourcePath);
+    
+    if (stat.isDirectory()) {
+      copyDirectoryRecursive(sourcePath, destPath);
+    } else {
+      fs.copyFileSync(sourcePath, destPath);
+    }
+  }
+}
+
 // Función principal
 function main() {
   log('🚀 Script de Actualización y Deploy Inteligente', 'bright');
@@ -200,6 +253,10 @@ function main() {
     logError('No se encontró quartz.config.ts. Asegúrate de estar en el directorio del proyecto Quartz.');
     process.exit(1);
   }
+  
+  // Sincronizar desde Obsidian
+  logStep('Sincronizando desde Obsidian...');
+  syncFromObsidian();
   
   // Verificar si hay cambios
   if (!hasChanges()) {

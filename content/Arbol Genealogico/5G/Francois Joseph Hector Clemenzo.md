@@ -1,8 +1,10 @@
 ## Datos Básicos
 
 👶
-**Fecha de nacimiento**: 16 (o 22) de julio de 1859 
-**Lugar de nacimiento**: Ardon, Valais, Suiza
+**Fecha de nacimiento**: 16 (o 22) de julio de 1859
+
+**Lugar de nacimiento**: Conthey, Ardon, Valais, Suiza
+
 *Documentos*: 
 - [[FJHC_1859_censo1895_1.jpg]] 
 - [[FJHC_1859_censo1870.png]]
@@ -11,7 +13,9 @@
 
 🪦
 **Fecha de fallecimiento**: 17 de abril de 1928
+
 **Lugar de fallecimiento**: Concepción del Uruguay, Provincia de Entre Rios, Argentina
+
 *Documentos*:
 - [[FJHC_1859_defuncion.jpg]]
 
