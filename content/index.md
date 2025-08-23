@@ -4,7 +4,7 @@ description: "Investigación genealógica de la familia Clemenzo - Desde Suiza h
 tags: [genealogia, familia, investigacion, suiza, argentina]
 ---
 
-![[afiche emigracion valais.png]]
+![Afiche de emigración de Valais](Imagenes/Informacion/afiche%20emigracion%20valais.png)
 
 Bienvenido a la investigación genealógica de la familia Clemenzo. Este sitio contiene toda la información recopilada sobre nuestros ancestros, desde sus orígenes en Suiza hasta su establecimiento en Argentina.
 
