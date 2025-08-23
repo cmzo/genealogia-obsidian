@@ -3,6 +3,9 @@ title: "Genealogía Clemenzo"
 description: "Investigación genealógica de la familia Clemenzo - Desde Suiza hasta Argentina"
 tags: [genealogia, familia, investigacion, suiza, argentina]
 ---
+
+![[afiche emigracion valais.png]]
+
 Bienvenido a la investigación genealógica de la familia Clemenzo. Este sitio contiene toda la información recopilada sobre nuestros ancestros, desde sus orígenes en Suiza hasta su establecimiento en Argentina.
 
 ## Estructura del Árbol Genealógico
